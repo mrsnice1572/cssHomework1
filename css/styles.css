@@ -1,0 +1,61 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-color: rgb(123, 214, 191);
+}
+
+header {
+    background-color: rgb(150, 222, 198);
+    text-align: center;
+    
+    
+}
+
+nav {
+    background-color:rgb(179, 221, 209);
+    color: rgb(123, 214, 191);
+}
+
+main {
+    background-color: rgb(123, 214, 191);
+    font-size: large;
+}
+
+footer{
+    background-color:  rgb(150, 222, 198);
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 175px;
+}
+
+h1 {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(70, 163, 140);
+}
+
+p {
+    line-height: 1cm;
+}
+
+img {
+    width:9.5%;
+    margin: 1px;
+    border: 2px solid black
+    
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#photo-dog {
+  width: 300px;
+  border: 2px solid black;
+  
+  
+}
