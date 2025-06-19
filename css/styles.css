@@ -1,6 +1,6 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: larger;
+    font-size: medium;
     background-color: rgb(123, 214, 191);
 }
 
@@ -12,23 +12,24 @@ header {
 }
 
 nav {
-    background-color:rgb(179, 221, 209);
+    background-color:rgb(20, 207, 154);
     color: rgb(123, 214, 191);
 }
 
 main {
-    background-color: rgb(123, 214, 191);
+    background-color: rgb(32, 129, 104);
     font-size: large;
 }
 
 footer{
-    background-color:  rgb(150, 222, 198);
+    background-color:  rgb(74, 106, 96);
     text-align: center;
 }
 
 li {
     display: inline;
     margin: 175px;
+    width: 500%;
 }
 
 h1 {
